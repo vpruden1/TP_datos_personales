@@ -4,12 +4,12 @@ const plotUpset = (data, soloSets, plotId) => {
 
     // position and dimensions
     const margin = {
-      top: 100,
+      top: 50,
       right: 200,
-      bottom: 300,
+      bottom: 200,
       left: 100,
     };
-    const width = 40 * data.length;
+    const width = 30 * data.length;
     const height = 400;
 
     // make the canvas
@@ -29,7 +29,7 @@ const plotUpset = (data, soloSets, plotId) => {
       .attr('id', 'upsetCircles')
       .attr('transform', `translate(20,${height + 40})`);
 
-    const rad = 13;
+    const rad = 11;
 
     // making dataset labels
     soloSets.forEach((x, i) => {
@@ -40,6 +40,7 @@ const plotUpset = (data, soloSets, plotId) => {
         .attr('fill', 'black')
         //Nombro una clase para el styling
         .attr('class','texto')
+        .attr('font-size','1em')
         .text(x.name);
     });
 
@@ -92,7 +93,8 @@ const plotUpset = (data, soloSets, plotId) => {
       .attr('stroke-width', 1)
       .call(yAxis)
       .selectAll('text')
-      .attr('class', 'texto')
+      .attr('class','texto')
+      .attr('font-size','1.5em')
       .attr('fill', 'black')
       .attr('stroke', 'none');
 
