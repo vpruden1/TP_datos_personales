@@ -24,15 +24,15 @@ h1 {
   color: #111;
   display: block;
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.5em;
+  font-size: 2em;
   padding: 0.5em 0 0.5em 0;
   position: relative;
   text-align: center;
 }
 
 .texto{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 0.8em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.2em;
   font-weight: 200;
 }
 
@@ -42,13 +42,8 @@ h1 {
   left: 2.5em;
 }
 
-.hline-bottom {
-  padding-bottom: 10px;
-  border-bottom: 1px solid rgba(206, 196, 196, 0.815); /* whichever color you prefer */
-}
-
 .stats > div{
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .porcentaje{
@@ -60,12 +55,17 @@ h1 {
 
 .detalle_porcentaje{
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.6em;
+  font-size: 0.8em;
   font-weight: 200;
 }
 
-.recomendacion{
-  border: solid;
-  border-width: 0.01em;
-  padding: 1em;
+.hline-bottom {
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(206, 196, 196, 0.815); /* whichever color you prefer */
+}
+
+#flecha{
+  position: relative;
+  top:-30em;
+  left:14.8em;
 }
