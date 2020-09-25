@@ -167,7 +167,3 @@ const plotUpset = (data, soloSets, plotId) => {
         tooltip.style('visibility', 'hidden');
       });
 };
-
-
-let carita = d3.select('#carita')
-  .attr('transform', `translate(80,200`); 
