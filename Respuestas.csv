@@ -1,0 +1,152 @@
+﻿Index;Género;Edad;¿Cuantas tazas de café tomas por día?;¿En qué momento del día?;¿Lo tomás con leche?;¿Cómo lo endulzas?;¿Qué marca de café comprás?;¿Sentís que afecta en tu nivel de energía y productividad?;¿Afecta en tus horas de sueño?;#ID;Manana;Mediodia;Tarde;Noche
+1;Femenino;50 - 69;5;A la mañana, A la tarde, A la noche;No;Nada;Otra;No;No;;1;0;1;1
+2;Femenino;15 - 29;4;A la mañana, Al mediodía, A la tarde;Sí;Nada;Otra;Sí;No;🙂;1;1;1;0
+3;Masculino;50 - 69;3;A la mañana, A la tarde;No;Nada;Otra;No;A veces;;1;0;1;0
+4;Masculino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Nescafé;Sí;No;;1;0;1;0
+5;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Nada;Cabrales;No;No;;1;0;1;0
+6;Masculino;50 - 69;2;A la mañana, Al mediodía;Sí;Edulcorante;Otra;No;No;;1;1;0;0
+7;Femenino;15 - 29;4;A la mañana, Al mediodía, A la tarde, A la noche;Sí;Nada;Nescafé;A veces;A veces;;1;1;1;1
+8;Masculino;50 - 69;3;A la mañana;Sí;Nada;Otra;Sí;No;;1;0;0;0
+9;Masculino;15 - 29;1;A la noche;Sí;Nada;Cabrales;No;A veces;;0;0;0;1
+10;Femenino;15 - 29;2;A la mañana, A la tarde;No;Nada;Otra;No;No;;1;0;1;0
+11;Femenino;15 - 29;1;A la tarde;Sí;Azúcar;Nescafé;No;No;;0;0;1;0
+12;Masculino;15 - 29;1;A la mañana;No;Nada;Cabrales;No;No;;1;0;0;0
+13;Masculino;15 - 29;1;A la tarde;A veces;Nada;Otra;A veces;No;;0;0;1;0
+14;Femenino;15 - 29;1;A la mañana;Sí;Edulcorante;Nescafé;No;Sí;;1;0;0;0
+15;Masculino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Nescafé;A veces;No;;1;0;1;0
+16;Femenino;15 - 29;1;A la mañana;Sí;Azúcar;Nescafé;No;No;;1;0;0;0
+17;Masculino;15 - 29;4;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Nada;Otra;No;No;;1;1;1;1
+18;Femenino;15 - 29;2;A la mañana, A la noche;A veces;Edulcorante;Nescafé;A veces;No;;1;0;0;1
+19;Femenino;15 - 29;1;A la mañana;Sí;Nada;Otra;Sí;No;;1;0;0;0
+20;Femenino;15 - 29;2;A la mañana, Al mediodía, A la tarde;Sí;Nada;Otra;A veces;No;;1;1;1;0
+21;Femenino;15 - 29;2;A la mañana, A la tarde;A veces;Azúcar;Otra;No;No;;1;0;1;0
+22;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Nada;No me importa la marca;No;No;;1;0;1;0
+23;Masculino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;No me importa la marca;No;No;;1;0;1;0
+24;Femenino;15 - 29;3;A la mañana, A la tarde, A la noche;Sí;Azúcar;Otra;A veces;No;;1;0;1;1
+25;Masculino;15 - 29;1;A la mañana, A la tarde;Sí;Azúcar;Nescafé;Sí;No;;1;0;1;0
+26;Femenino;15 - 29;1;A la mañana;Sí;Edulcorante;Nescafé;A veces;No;;1;0;0;0
+27;Masculino;15 - 29;1;A la mañana;A veces;Azúcar;Nescafé;No;No;;1;0;0;0
+28;Masculino;15 - 29;2;A la mañana, A la tarde;Sí;Nada;Otra;Sí;No;;1;0;1;0
+29;Masculino;50 - 69;1;A la mañana;No;Azúcar;Nescafé;No;No;;1;0;0;0
+30;Masculino;15 - 29;4;A la mañana, Al mediodía, A la tarde;A veces;Azúcar;Otra;A veces;No;;1;1;1;0
+31;Masculino;15 - 29;2;A la mañana, A la tarde;No;Nada;Nescafé;Sí;Sí;;1;0;1;0
+32;Femenino;15 - 29;1;A la mañana;Sí;Edulcorante;Otra;No;No;;1;0;0;0
+33;Masculino;15 - 29;3;A la mañana, Al mediodía, A la tarde;A veces;Nada;Otra;A veces;No;;1;1;1;0
+34;Masculino;15 - 29;3;A la mañana, A la tarde;No;Azúcar;Otra;Sí;A veces;;1;0;1;0
+35;Femenino;15 - 29;1;A la mañana;Sí;Azúcar;Otra;No;No;;1;0;0;0
+36;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;Nescafé;No;No;;1;0;1;0
+37;Femenino;15 - 29;4;A la mañana, Al mediodía, A la tarde;A veces;Nada;Otra;A veces;No;;1;1;1;0
+38;Masculino;15 - 29;1;A la mañana;A veces;Edulcorante;No me importa la marca;A veces;Sí;;1;0;0;0
+39;Masculino;15 - 29;3;A la mañana, A la tarde, A la noche;Sí;Azúcar;No me importa la marca;Sí;A veces;;1;0;1;1
+40;Femenino;15 - 29;1;A la mañana;Sí;Azúcar;No me importa la marca;Sí;No;;1;0;0;0
+41;Masculino;15 - 29;4;A la mañana, Al mediodía, A la tarde, A la noche;Sí;Edulcorante;Otra;A veces;No;;1;1;1;1
+42;Masculino;15 - 29;1;A la mañana, A la tarde;Sí;Nada;Otra;A veces;No;;1;0;1;0
+43;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Nada;Otra;No;No;;1;0;1;0
+44;Masculino;15 - 29;3;A la mañana, A la tarde;No;Azúcar;Nescafé;Sí;No;;1;0;1;0
+45;Femenino;15 - 29;1;A la tarde;Sí;Azúcar;Otra;Sí;A veces;;0;0;1;0
+46;Femenino;15 - 29;1;A la mañana, A la tarde;Sí;Azúcar;Otra;A veces;Sí;;1;0;1;0
+47;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;Otra;Sí;No;;1;0;1;0
+48;Femenino;15 - 29;1;A la mañana;Sí;Edulcorante;Nescafé;A veces;A veces;;1;0;0;0
+49;Masculino;15 - 29;1;A la tarde;No;Nada;Nescafé;A veces;No;;0;0;1;0
+50;Masculino;15 - 29;2;A la mañana, Al mediodía;No;Nada;Cabrales;Sí;Sí;;1;1;0;0
+51;Femenino;15 - 29;5;A la mañana, A la tarde, A la noche;A veces;Nada;Otra;Sí;No;;1;0;1;1
+52;Masculino;15 - 29;2;A la mañana, A la tarde;A veces;Nada;Otra;A veces;A veces;;1;0;1;0
+53;Masculino;15 - 29;3;A la mañana, Al mediodía, A la tarde;Sí;Nada;Nescafé;A veces;No;;1;1;1;0
+54;Femenino;15 - 29;3;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Nada;Cabrales;A veces;No;;1;1;1;1
+55;Masculino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Nescafé;A veces;No;;1;0;1;0
+56;Femenino;50 - 69;2;A la mañana, A la tarde;Sí;Nada;Otra;Sí;No;;1;0;1;0
+57;Masculino;15 - 29;1;A la mañana, A la tarde;No;Edulcorante;Otra;Sí;No;;1;0;1;0
+58;Femenino;30 - 49;4;A la mañana, A la tarde;No;Nada;Otra;A veces;No;;1;0;1;0
+59;Femenino;50 - 69;5;A la mañana, Al mediodía, A la tarde, A la noche;No;Nada;Otra;Sí;No;;1;1;1;1
+60;Masculino;70 o más;4;A la mañana, A la tarde;Sí;Azúcar;Cabrales;No;No;;1;0;1;0
+61;Masculino;15 - 29;1;A la mañana;Sí;Azúcar;Cabrales;Sí;A veces;;1;0;0;0
+62;Femenino;50 - 69;5;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Nada;Nescafé;No;No;;1;1;1;1
+63;Masculino;15 - 29;2;A la mañana, A la tarde;A veces;Nada;No me importa la marca;Sí;Sí;;1;0;1;0
+64;Femenino;50 - 69;4;A la mañana, Al mediodía, A la tarde, A la noche;Sí;Edulcorante;Otra;No;No;;1;1;1;1
+65;Femenino;30 - 49;3;A la mañana, Al mediodía, A la tarde;Sí;Azúcar;Otra;Sí;A veces;;1;1;1;0
+66;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;Nescafé;Sí;No;;1;0;1;0
+67;Masculino;15 - 29;2;A la mañana, A la tarde;No;Nada;No me importa la marca;Sí;Sí;;1;0;1;0
+68;Femenino;15 - 29;3;A la mañana, Al mediodía;Sí;Nada;Otra;Sí;No;;1;1;0;0
+69;Femenino;15 - 29;1;A la tarde;A veces;Nada;Otra;No;No;;0;0;1;0
+70;Masculino;15 - 29;1;A la tarde;Sí;Azúcar;Cabrales;A veces;No;;0;0;1;0
+71;Femenino;15 - 29;1;A la mañana;Sí;Azúcar;Nescafé;A veces;No;;1;0;0;0
+72;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;Nescafé;A veces;No;;1;0;1;0
+73;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Cabrales;Sí;Sí;;1;0;1;0
+74;Femenino;15 - 29;2;A la mañana, A la tarde;No;Nada;Otra;Sí;No;;1;0;1;0
+75;Masculino;15 - 29;1;A la mañana;Sí;Azúcar;Nescafé;No;No;;1;0;0;0
+76;Masculino;15 - 29;1;A la mañana;Sí;Edulcorante;Cabrales;A veces;No;;1;0;0;0
+77;Femenino;50 - 69;2;A la mañana, A la tarde;Sí;Nada;Cabrales;Sí;No;;1;0;1;0
+78;Femenino;30 - 49;4;A la mañana, Al mediodía, A la tarde;Sí;Nada;Nescafé;Sí;No;;1;1;1;0
+79;Femenino;50 - 69;1;A la mañana;A veces;Edulcorante;Otra;A veces;No;;1;0;0;0
+80;Masculino;15 - 29;2;A la mañana, Al mediodía;No;Nada;Cabrales;A veces;No;;1;1;0;0
+81;Femenino;15 - 29;3;A la mañana, A la tarde, A la noche;Sí;Azúcar;No me importa la marca;A veces;No;;1;0;1;1
+82;Femenino;15 - 29;2;A la tarde;Sí;Nada;Cabrales;Sí;Sí;;0;0;1;0
+83;Femenino;50 - 69;2;A la mañana, A la tarde;Sí;Nada;Otra;Sí;No;;1;0;1;0
+84;Masculino;15 - 29;1;A la mañana, A la tarde;Sí;Edulcorante;No me importa la marca;Sí;No;;1;0;1;0
+85;Masculino;50 - 69;4;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Edulcorante;Nescafé;No;Sí;;1;1;1;1
+86;Masculino;50 - 69;2;A la mañana, Al mediodía;A veces;Edulcorante;Otra;Sí;No;;1;1;0;0
+87;Femenino;15 - 29;3;A la mañana, Al mediodía, A la tarde;A veces;Azúcar;Cabrales;A veces;No;;1;1;1;0
+88;Masculino;30 - 49;1;A la tarde;A veces;Nada;No me importa la marca;No;A veces;;0;0;1;0
+89;Femenino;15 - 29;1;A la mañana;Sí;Azúcar;No me importa la marca;A veces;No;;1;0;0;0
+90;Masculino;15 - 29;5;A la mañana, Al mediodía, A la tarde;No;Nada;Nescafé;Sí;Sí;;1;1;1;0
+91;Femenino;50 - 69;2;A la mañana, A la tarde;Sí;Edulcorante;Nescafé;No;No;;1;0;1;0
+92;Masculino;15 - 29;4;A la mañana, Al mediodía, A la tarde, A la noche;Sí;Edulcorante;No me importa la marca;Sí;A veces;;1;1;1;1
+93;Femenino;15 - 29;1;A la tarde;A veces;Azúcar;Otra;No;No;;0;0;1;0
+94;Femenino;15 - 29;1;A la mañana, A la tarde;Sí;Edulcorante;Nescafé;A veces;No;;1;0;1;0
+95;Femenino;50 - 69;1;A la tarde;Sí;Edulcorante;Nescafé;No;No;;0;0;1;0
+96;Masculino;50 - 69;4;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Edulcorante;Nescafé;No;Sí;;1;1;1;1
+97;Masculino;15 - 29;4;A la mañana, A la tarde;A veces;Nada;Nescafé;Sí;Sí;;1;0;1;0
+98;Masculino;15 - 29;3;A la mañana, Al mediodía, A la tarde;Sí;Azúcar;Otra;Sí;Sí;;1;1;1;0
+99;Femenino;15 - 29;2;A la mañana, A la tarde;A veces;Azúcar;Nescafé;No;A veces;;1;0;1;0
+100;Masculino;50 - 69;5;A la mañana, A la tarde;A veces;Azúcar;Otra;A veces;Sí;;1;0;1;0
+101;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;Otra;Sí;No;;1;0;1;0
+102;Femenino;30 - 49;3;A la mañana, Al mediodía, A la tarde;Sí;Azúcar;Otra;Sí;A veces;;1;1;1;0
+103;Femenino;15 - 29;2;A la mañana;Sí;Nada;Cabrales;Sí;No;;1;0;0;0
+104;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Edulcorante;Otra;Sí;Sí;;1;0;1;0
+105;Masculino;15 - 29;1;A la mañana;Sí;Azúcar;Otra;No;No;;1;0;0;0
+106;Masculino;15 - 29;4;A la mañana, Al mediodía, A la tarde, A la noche;No;Nada;Otra;No;No;;1;1;1;1
+107;Femenino;50 - 69;1;A la mañana;A veces;Edulcorante;Otra;A veces;No;;1;0;0;0
+108;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Otra;A veces;No;;1;0;1;0
+109;Masculino;15 - 29;1;A la tarde;Sí;Edulcorante;Nescafé;No;A veces;;0;0;1;0
+110;Femenino;15 - 29;3;A la mañana, Al mediodía, A la tarde;Sí;Edulcorante;Otra;A veces;No;;1;1;1;0
+111;Femenino;15 - 29;3;A la mañana, Al mediodía, A la tarde;A veces;Azúcar;Otra;A veces;No;;1;1;1;0
+112;Masculino;15 - 29;2;A la mañana, A la tarde;A veces;Nada;Nescafé;No;No;;1;0;1;0
+113;Masculino;15 - 29;1;A la mañana;Sí;Azúcar;Otra;No;No;;1;0;0;0
+114;Masculino;50 - 69;2;A la mañana, A la tarde;No;Edulcorante;Cabrales;No;No;;1;0;1;0
+115;Femenino;15 - 29;2;A la mañana, A la tarde;No;Edulcorante;Cabrales;Sí;Sí;;1;0;1;0
+116;Masculino;50 - 69;4;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Edulcorante;Nescafé;No;Sí;;1;1;1;1
+117;Masculino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Otra;A veces;No;;1;0;1;0
+118;Femenino;30 - 49;3;A la mañana, Al mediodía, A la tarde;Sí;Azúcar;Otra;Sí;A veces;;1;1;1;0
+119;Femenino;30 - 49;3;A la mañana, Al mediodía, A la tarde;Sí;Azúcar;Otra;Sí;A veces;;1;1;1;0
+120;Masculino;15 - 29;2;A la mañana;Sí;Azúcar;Nescafé;A veces;A veces;;1;0;0;0
+121;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Nada;Cabrales;No;No;;1;0;1;0
+122;Femenino;15 - 29;1;Al mediodía;No;Edulcorante;Otra;Sí;No;;0;1;0;0
+123;Femenino;15 - 29;1;Al mediodía;No;Edulcorante;Otra;Sí;No;;0;1;0;0
+124;Femenino;15 - 29;1;Al mediodía;No;Edulcorante;Otra;Sí;Sí;;0;1;0;0
+125;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Nescafé;Sí;A veces;;1;0;1;0
+126;Femenino;15 - 29;1;A la mañana, A la noche;Sí;Nada;No me importa la marca;No;No;;1;0;0;1
+127;Masculino;50 - 69;5;A la mañana, Al mediodía, A la tarde, A la noche;A veces;Nada;No me importa la marca;Sí;Sí;;1;1;1;1
+128;Femenino;50 - 69;2;A la mañana, A la tarde;Sí;Edulcorante;No me importa la marca;Sí;No;;1;0;1;0
+129;Femenino;50 - 69;1;A la mañana;Sí;Nada;Nescafé;Sí;No;;1;0;0;0
+130;Femenino;70 o más;2;A la mañana, A la tarde;Sí;Azúcar;Cabrales;Sí;No;;1;0;1;0
+131;Masculino;30 - 49;3;A la mañana, A la tarde, A la noche;Sí;Edulcorante;Nescafé;No;No;;1;0;1;1
+132;Femenino;30 - 49;4;A la mañana, A la tarde, A la noche;Sí;Edulcorante;Otra;Sí;No;;1;0;1;1
+133;Femenino;30 - 49;4;A la mañana, A la tarde;Sí;Nada;Otra;No;No;;1;0;1;0
+134;Femenino;70 o más;3;A la mañana, A la tarde;Sí;Nada;Otra;No;No;;1;0;1;0
+135;Femenino;50 - 69;2;A la mañana, Al mediodía;No;Nada;Otra;No;No;;1;1;0;0
+136;Femenino;50 - 69;1;Al mediodía;Sí;Nada;No me importa la marca;A veces;A veces;;0;1;0;0
+137;Femenino;50 - 69;2;A la mañana, A la tarde;A veces;Edulcorante;Cabrales;A veces;No;;1;0;1;0
+138;Femenino;50 - 69;1;A la mañana;A veces;Nada;Otra;No;No;;1;0;0;0
+139;Masculino;50 - 69;1;A la mañana;Sí;Nada;No me importa la marca;No;No;;1;0;0;0
+140;Masculino;30 - 49;1;A la tarde;No;Edulcorante;No me importa la marca;No;No;;0;0;1;0
+141;Masculino;30 - 49;2;A la mañana, A la tarde;Sí;Azúcar;Nescafé;Sí;Sí;;1;0;1;0
+142;Masculino;30 - 49;2;A la mañana, A la tarde;No;Edulcorante;No me importa la marca;No;No;;1;0;1;0
+143;Masculino;70 o más;1;A la mañana;Sí;Azúcar;No me importa la marca;No;No;;1;0;0;0
+144;Femenino;50 - 69;1;A la mañana;A veces;Edulcorante;No me importa la marca;A veces;Sí;;1;0;0;0
+145;Femenino;15 - 29;1;A la tarde;Sí;Azúcar;Nescafé;No;No;;0;0;1;0
+146;Femenino;15 - 29;2;A la mañana, A la tarde;Sí;Azúcar;Nescafé;Sí;A veces;;1;0;1;0
+147;Femenino;15 - 29;1;Al mediodía;No;Edulcorante;Otra;Sí;Sí;;0;1;0;0
+148;Femenino;50 - 69;2;A la mañana, A la tarde;Sí;Edulcorante;Otra;Sí;No;;1;0;1;0
+149;Masculino;50 - 69;4;A la mañana, Al mediodía, A la noche;A veces;Edulcorante;Otra;A veces;A veces;;1;1;0;1
+150;Masculino;50 - 69;5;A la mañana, A la tarde;A veces;Azúcar;Otra;A veces;Sí;;1;0;1;0
+151;Masculino;50 - 69;4;A la mañana, Al mediodía, A la noche;A veces;Edulcorante;Otra;A veces;A veces;;1;1;0;1
