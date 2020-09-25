@@ -1,4 +1,4 @@
-﻿Index;Género;Edad;¿Cuantas tazas de café tomas por día?;¿En qué momento del día?;¿Lo tomás con leche?;¿Cómo lo endulzas?;¿Qué marca de café comprás?;¿Sentís que afecta en tu nivel de energía y productividad?;¿Afecta en tus horas de sueño?;#ID;Manana;Mediodia;Tarde;Noche
+Index;Género;Edad;Tazas;Momento;¿Lo tomás con leche?;¿Cómo lo endulzas?;¿Qué marca de café comprás?;Energía y Productividad;Sueno;#ID;Manana;Mediodia;Tarde;Noche
 1;Femenino;50 - 69;5;A la mañana, A la tarde, A la noche;No;Nada;Otra;No;No;;1;0;1;1
 2;Femenino;15 - 29;4;A la mañana, Al mediodía, A la tarde;Sí;Nada;Otra;Sí;No;🙂;1;1;1;0
 3;Masculino;50 - 69;3;A la mañana, A la tarde;No;Nada;Otra;No;A veces;;1;0;1;0
